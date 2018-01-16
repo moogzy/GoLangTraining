@@ -1,2 +1,2 @@
-# UdemyTraining-GoLangTraining
+# GoLangTraining
 GoLang Introduction
